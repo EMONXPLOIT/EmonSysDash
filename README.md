@@ -21,3 +21,5 @@ To deploy the dashboard in your terminal environment, follow these steps:
    ```bash
    git clone [YOUR_REPO_LINK]
    cd EMON-SYSDASH
+2.Setup Dependencies:
+pip install -r requirements.txt
